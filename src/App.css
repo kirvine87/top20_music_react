@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+
+html{
+  width:100%;
+  height: 100%;
+  display: flex;
+}
+
+body {
+  width: 100%;
+}
